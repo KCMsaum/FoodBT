@@ -1,8 +1,9 @@
 import streamlit as st
 import requests
 
+
 # ---------------- BLYNK CONFIG ----------------
-BLYNK_TOKEN = "eveLTyW2cyI55u0wSuLjG57RS_4sZvOC"
+BLYNK_TOKEN = "IO0iFP7etbXAdaT14wGIc-f6vSnQ9wIm"
 SERVER = "https://sgp1.blynk.cloud"
 
 def send_to_v2(value):
