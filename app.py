@@ -36,6 +36,7 @@ foods = [
 
 # Location options (same for both)
 locations = [
+    "VC Building"
     "BangaBondhu Hall",
     "TSC",
     "Shah Hall",
